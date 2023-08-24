@@ -35,6 +35,9 @@ and finally the installed environment is activated.
 
  - [List Comprehension Exercises Questions & Answers](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week1/task2_list_comprehension_exercises_questions_and_answers.py)
 
+## 2. Week - Python Programming for Data Science Case Studies 
+ - [Pandas Exercises Questions & Answers](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week2/task3_pandas_exercises_questions_and_answers.py)
+
 ---
 
 ## Feedback
