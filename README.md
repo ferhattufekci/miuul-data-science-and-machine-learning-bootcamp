@@ -22,9 +22,13 @@ and finally the installed environment is activated.
 
     conda activate fero_s_swamp 
 
-<div>
-<img height="150" src="https://i.makeagif.com/media/12-13-2022/VaWV0Y.gif"  />
+###
+<div align="center"> 
+<img src = "https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/ImagesForReadMeFile/fero_s_swamp.gif" />
 </div>
+
+###
+
 
 ---
 ## CONTENT
@@ -38,7 +42,6 @@ and finally the installed environment is activated.
 ## 2. Week - Python Programming for Data Science Case Studies 
  - [Pandas Exercises Questions & Answers](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week2/task3_pandas_exercises_questions_and_answers.py)
  - [Lead Calculation with Level-Based Classification](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week2/task4_lead_calculation_with_level_based_classification.py)
-
 ---
 ## Author
 
