@@ -1,4 +1,4 @@
-name: feronun_batakligi
+name: fero_s_swamp
 channels:
   - defaults
 dependencies:
@@ -41,4 +41,4 @@ dependencies:
       - seaborn==0.12.2
       - six==1.16.0
       - tzdata==2023.3
-prefix: C:\Users\ferha\.conda\envs\feronun_batakligi
+prefix: C:\Users\ferha\.conda\envs\fero_s_swamp

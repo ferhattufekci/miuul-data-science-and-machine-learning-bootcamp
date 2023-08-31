@@ -1,8 +1,5 @@
 # MIUUL MACHINE LEARNING SUMMER CAMP
 
-[![Owner](https://img.shields.io/badge/owner-ferhattufekci-red)](https://github.com/ferhattufekci)
-[![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/ferhattufekci/)
-
 This repo includes the case studies I made in the machine learning summer camp given by [miuul](https://www.miuul.com/).
 
 ---
@@ -23,10 +20,13 @@ Then, the ready environment is installed by running the code below in the termin
 
 and finally the installed environment is activated.
 
-    conda activate feronun_batakligi
+    conda activate fero_s_swamp 
+
+<div>
+<img height="150" src="https://i.makeagif.com/media/12-13-2022/VaWV0Y.gif"  />
+</div>
 
 ---
-
 ## CONTENT
 
 ## 1. Week - Python Programming for Data Science Case Studies 
@@ -40,7 +40,17 @@ and finally the installed environment is activated.
  - [Lead Calculation with Level-Based Classification](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week2/task4_lead_calculation_with_level_based_classification.py)
 
 ---
+## Author
 
+[![Author](https://img.shields.io/badge/author-ferhattufekci-red)](https://github.com/ferhattufekci)
+[![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/ferhattufekci/)
+
+---
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+---
 ## Feedback
 
 If you have any feedback, please reach out to us at ferhatufekci@outlook.com.tr
