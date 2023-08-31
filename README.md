@@ -42,6 +42,10 @@ and finally the installed environment is activated.
 ## 2. Week - Python Programming for Data Science Case Studies 
  - [Pandas Exercises Questions & Answers](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week2/task3_pandas_exercises_questions_and_answers.py)
  - [Lead Calculation with Level-Based Classification](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week2/task4_lead_calculation_with_level_based_classification.py)
+
+## 3. Week - Feature Engineering Case Studies 
+ - [Diabetes Feature Engineering](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week3/task5_diabetes_feature_engineering_questions_and_answers.py)
+
 ---
 ## Author
 
