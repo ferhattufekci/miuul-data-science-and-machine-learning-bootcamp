@@ -55,11 +55,15 @@ and finally the installed environment is activated.
 
 ## 5. Week - Predicting House Prices with Machine Learning
 
-- [Predicting House Prices with Machine Learning ](https://github.com/ferhattufekci/miuul-data-science-and-machine-learning-bootcamp/blob/master/CaseStudy/Week5/task7_house_price_prediction_questions_and_answers.py)
+- [Predicting House Prices with Machine Learning](https://github.com/ferhattufekci/miuul-data-science-and-machine-learning-bootcamp/blob/master/CaseStudy/Week5/task7_house_price_prediction_questions_and_answers.py)
 
 ## 6. Week - Telecom Churn Prediction with Machine Learning
 
-- [Telecom Churn Prediction ](https://github.com/ferhattufekci/miuul-data-science-and-machine-learning-bootcamp/blob/master/CaseStudy/Week6/task8_telecom_churn_prediction_questions_and_answers.py)
+- [Telecom Churn Prediction](https://github.com/ferhattufekci/miuul-data-science-and-machine-learning-bootcamp/blob/master/CaseStudy/Week6/task8_telecom_churn_prediction_questions_and_answers.py)
+
+## 7. Week - Customer Segmentation - K-Means Analysis
+
+- [Customer Segmentation - K-Means Analysis](https://github.com/ferhattufekci/miuul-data-science-and-machine-learning-bootcamp/blob/master/CaseStudy/Week7/task9_customer_segmentation_k_mean_analysis_questions_and_answers.py)
 
 ---
 
