@@ -53,6 +53,10 @@ and finally the installed environment is activated.
 
 - [Employee Salaries Analysis and Prediction with Machine Learning](https://github.com/ferhattufekci/miuul-data-science-and-machine-learning-bootcamp/blob/master/CaseStudy/Week4/task6_hitters_salary_prediction_lr_questions_and_answers.py)
 
+## 5. Week - Predicting House Prices with Machine Learning
+
+- [Predicting House Prices with Machine Learning ](https://github.com/ferhattufekci/miuul-data-science-and-machine-learning-bootcamp/blob/master/CaseStudy/Week5/task7_house_price_prediction_questions_and_answers.py)
+
 ---
 
 ## Author
