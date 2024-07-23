@@ -49,6 +49,10 @@ and finally the installed environment is activated.
 
 - [Diabetes Feature Engineering](https://github.com/ferhattufekci/miuul-machine-learning-summer-camp/blob/master/CaseStudy/Week3/task5_diabetes_feature_engineering_questions_and_answers.py)
 
+## 4. Week - Employee Salaries Analysis and Prediction with Machine Learning
+
+- [Employee Salaries Analysis and Prediction with Machine Learning](https://github.com/ferhattufekci/miuul-data-science-and-machine-learning-bootcamp/blob/master/CaseStudy/Week4/task6_hitters_salary_prediction_lr_questions_and_answers.py)
+
 ---
 
 ## Author
